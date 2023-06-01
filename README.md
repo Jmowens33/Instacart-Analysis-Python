@@ -1,4 +1,4 @@
-# Cf-Instacart-2018-Python
+# Cf-Instacart-Python
 Demonstration of an analysis of fictional 2018 Instacart consumer and product data using Python.
 ## Objective
 Instacart is an onlone grovery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The objective of this study is to analyse customer behavior and uncover patterns for growth.
