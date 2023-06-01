@@ -21,4 +21,5 @@ For this project, the following python libraries were used:
 
 ## Executing the code
 The code is available as jupyter notebooks, available under /scripts/.
+
 To launch the notebook, open terminal and run the command
