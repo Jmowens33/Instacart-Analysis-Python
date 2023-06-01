@@ -7,13 +7,16 @@ Instacart is an onlone grovery store that operates through an app. Instacart alr
 The dataset comprises of information on the following parameters:
 
 -orders
+
 -products
+
 -departments
 
 ## Tools
 For this project, the following python libraries were used:
 
 -pandas - for data anlysis
+
 -seaborn - for visualization
 
 ## Executing the code
